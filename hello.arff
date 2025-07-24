@@ -1,0 +1,11 @@
+@relation hello
+@attribute price real
+@attribute vegtables {tomato,brinjal,carrot,onion}
+@attribute kg {500,1000,1500,2000}
+@attribute discount {5,10,15,20}
+
+@data
+%
+50,tomato,500,5
+60,carrot,1000,15
+
