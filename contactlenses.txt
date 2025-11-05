@@ -1,0 +1,1 @@
+open weka-->explorer-->open file-->this pc-->local disk-->program files-->weka-3-8-6-->data-->contact-lenses-->associate-->start.

@@ -1,0 +1,1 @@
+open weka-->explorer-->open file-->this PC-->local disk(C:)-->program files-->weka-3-8-6-->data-->iris-->cluster-->choose file-->SimpleKMeans-->start

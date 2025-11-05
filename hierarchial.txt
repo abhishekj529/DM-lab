@@ -1,0 +1,1 @@
+open weka-->explorer-->open file-->desktop-->student.arff-->cluster-->choose file-->Hierarchical Clusterer-->start-->result list-->right click on HierarchicalClusterer-->visualize tree.
